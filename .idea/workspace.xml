@@ -1,7 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01dc99be-ab8b-4302-a6b0-a92b326257d1" name="Default" comment="" />
+    <list default="true" id="01dc99be-ab8b-4302-a6b0-a92b326257d1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/devider.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/about-biker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/about-bikers.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/bg-body.jpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/bg-body.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/bg-body.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/bg-body.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/bg-body_src.jpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/buttons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/devider.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/event-biker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/event-bikers.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/event-family.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/gallery-biker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/gallery-biker2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/gallery-boys.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/gallery-family.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/gallery-family2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/gallery-girls.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/home-biker-thumbnail.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/home-biker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/home-bikers.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/home-boys.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/home-family.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/home-girls.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/img-101.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/images/transportation-icons-rocket-space-ship-launch-shuttle.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/JBlog/MenuContainer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/JBlog/MenuItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/footer.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main_menu.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/top_menu.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/WEB-INF/views/footer.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/WEB-INF/views/main_menu.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/WEB-INF/views/top_menu.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/JBlog/resources/css/style.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/animated-menu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/bg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/images/.directory" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/images/devider.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/blue-item-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/green-item-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/purple-item-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/red-item-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/yellow-item-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/source/BikersClub 20 About.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/source/BikersClub 20 Blog.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/source/BikersClub 20 Contact Us.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/source/BikersClub 20 Events.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/source/BikersClub 20 Gallery.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/source/BikersClub 20 Home.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/source/BikersClub 20 Join Us.psd" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterPath="$PROJECT_DIR$/target/JBlog/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/about-biker.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/about-biker.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/about-bikers.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/about-bikers.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/bg-body.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/bg-body.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/bg-body.jpg.png" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/bg-body.jpg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/bg-body.png" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/bg-body.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/bg-body.svg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/bg-body.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/bg-body_src.jpg.png" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/bg-body_src.jpg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/buttons.gif" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/buttons.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/event-biker.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/event-biker.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/event-bikers.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/event-bikers.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/event-family.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/event-family.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/gallery-biker.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/gallery-biker.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/gallery-biker2.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/gallery-biker2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/gallery-boys.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/gallery-boys.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/gallery-family.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/gallery-family.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/gallery-family2.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/gallery-family2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/gallery-girls.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/gallery-girls.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/home-biker-thumbnail.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/home-biker-thumbnail.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/home-biker.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/home-biker.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/home-bikers.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/home-bikers.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/home-boys.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/home-boys.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/home-family.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/home-family.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/home-girls.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/home-girls.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/icons.gif" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/icons.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/img-101.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/img-101.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/images/transportation-icons-rocket-space-ship-launch-shuttle.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/transportation-icons-rocket-space-ship-launch-shuttle.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/index.htm" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JBlog.war" afterPath="$PROJECT_DIR$/target/JBlog.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JBlog/WEB-INF/classes/JBlog/HomeController.class" afterPath="$PROJECT_DIR$/target/JBlog/WEB-INF/classes/JBlog/HomeController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JBlog/images/bg-body.png" afterPath="$PROJECT_DIR$/target/JBlog/images/bg-body.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JBlog/images/bg-body.svg" afterPath="$PROJECT_DIR$/target/JBlog/images/bg-body.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/JBlog/HomeController.class" afterPath="$PROJECT_DIR$/target/classes/JBlog/HomeController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/JBlog/HomeControllerTest.class" afterPath="$PROJECT_DIR$/target/test-classes/JBlog/HomeControllerTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JBlog.iml" afterPath="$PROJECT_DIR$/JBlog.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/JBlog/HomeController.java" afterPath="$PROJECT_DIR$/src/main/java/JBlog/HomeController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/db.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/db.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/root-context.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/root-context.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/about.htm" afterPath="$PROJECT_DIR$/src/main/webapp/about.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/blog.htm" afterPath="$PROJECT_DIR$/src/main/webapp/blog.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/contact-us.htm" afterPath="$PROJECT_DIR$/src/main/webapp/contact-us.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/events.htm" afterPath="$PROJECT_DIR$/src/main/webapp/events.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/gallery.htm" afterPath="$PROJECT_DIR$/src/main/webapp/gallery.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/register.htm" afterPath="$PROJECT_DIR$/src/main/webapp/register.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/JBlog/HomeControllerTest.java" afterPath="$PROJECT_DIR$/src/test/java/JBlog/HomeControllerTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/test-context.xml" afterPath="$PROJECT_DIR$/src/test/resources/test-context.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/test-db.xml" afterPath="$PROJECT_DIR$/src/test/resources/test-db.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JBlog/WEB-INF/spring/db.xml" afterPath="$PROJECT_DIR$/target/JBlog/WEB-INF/spring/db.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JBlog/WEB-INF/spring/root-context.xml" afterPath="$PROJECT_DIR$/target/JBlog/WEB-INF/spring/root-context.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JBlog/WEB-INF/views/home.jsp" afterPath="$PROJECT_DIR$/target/JBlog/WEB-INF/views/home.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JBlog/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/JBlog/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JBlog/about.htm" afterPath="$PROJECT_DIR$/target/JBlog/about.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JBlog/blog.htm" afterPath="$PROJECT_DIR$/target/JBlog/blog.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JBlog/contact-us.htm" afterPath="$PROJECT_DIR$/target/JBlog/contact-us.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JBlog/events.htm" afterPath="$PROJECT_DIR$/target/JBlog/events.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JBlog/gallery.htm" afterPath="$PROJECT_DIR$/target/JBlog/gallery.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JBlog/index.htm" afterPath="$PROJECT_DIR$/target/JBlog/index.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/JBlog/register.htm" afterPath="$PROJECT_DIR$/target/JBlog/register.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/JBlog.HomeControllerTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/JBlog.HomeControllerTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-JBlog.HomeControllerTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-JBlog.HomeControllerTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/test-context.xml" afterPath="$PROJECT_DIR$/target/test-classes/test-context.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/test-db.xml" afterPath="$PROJECT_DIR$/target/test-classes/test-db.xml" />
+    </list>
     <ignored path="JBlog.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,73 +184,84 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="48" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="83" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uiCreator.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/uiCreator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="HomeController.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/JBlog/HomeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="32" selection-start="1277" selection-end="1277" vertical-scroll-proportion="0.0">
+            <state line="45" column="0" selection-start="1624" selection-end="1624" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MenuItem.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JBlog/MenuItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="102" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="welcome.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/welcome.html">
+      <file leaf-file-name="MenuContainer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JBlog/MenuContainer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="51" selection-end="650" vertical-scroll-proportion="0.0">
+            <state line="27" column="0" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animated-menu.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/animated-menu.html">
+      <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="85" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.0">
+            <state line="9" column="75" selection-start="319" selection-end="319" vertical-scroll-proportion="0.24193548">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.htm" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.htm">
+      <file leaf-file-name="home.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="73" selection-start="5255" selection-end="5255" vertical-scroll-proportion="-61.875">
+            <state line="1" column="65" selection-start="130" selection-end="130" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/style.css">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="0" selection-start="1688" selection-end="1688" vertical-scroll-proportion="0.73046434">
+            <state line="110" column="20" selection-start="1898" selection-end="1898" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="top_menu.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/top_menu.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="34" selection-start="520" selection-end="520" vertical-scroll-proportion="-9.375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/footer.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="34" selection-start="726" selection-end="726" vertical-scroll-proportion="-10.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_menu.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main_menu.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="146" selection-end="276" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
@@ -137,24 +274,28 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$USER_HOME$/.m2/settings.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/JBlog/HomeControllerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
-        <option value="$PROJECT_DIR$/src/main/java/JBlog/HomeController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/uiCreator.js" />
-        <option value="$PROJECT_DIR$/src/main/webapp/welcome.html" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/animated-menu.css" />
-        <option value="$PROJECT_DIR$/src/main/webapp/animated-menu.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/animated-menu.html" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.htm" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/css/style.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.htm" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/JBlog/HomeController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main_menu.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/footer.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/top_menu.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/style.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/JBlog/TopMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JBlog/MenuItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JBlog/MenuContainer.java" />
+        <option value="$PROJECT_DIR$/target/JBlog/index.jsp" />
       </list>
     </option>
   </component>
@@ -226,13 +367,16 @@
       </PATH>
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="y" value="-10" />
-    <option name="width" value="1934" />
-    <option name="height" value="1068" />
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-3" />
+    <option name="y" value="-3" />
+    <option name="width" value="1926" />
+    <option name="height" value="1052" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -260,16 +404,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -284,7 +418,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JBlog" />
+              <option name="myItemId" value="JBloq" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -294,12 +428,66 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JBlog" />
+              <option name="myItemId" value="JBloq" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBloq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBloq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -321,10 +509,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.lastSelected" value="MavenSettings" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="Html" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.includeJavaFiles" value="false" />
@@ -339,6 +531,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/resources/images" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/resources/css" />
     </key>
   </component>
   <component name="RunManager">
@@ -545,32 +741,32 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-10" width="1934" height="1068" extended-state="6" />
-    <editor active="true" />
+    <frame x="-3" y="-3" width="1926" height="1052" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21824974" sideWeight="0.6710671" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17022412" sideWeight="0.6710671" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869378" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21237993" sideWeight="0.7109634" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16915688" sideWeight="0.7109634" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28903654" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -612,7 +808,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="beginning" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -625,6 +821,7 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="beginning" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -664,113 +861,225 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/JBlog/HomeControllerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/app/controllers.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="33" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="49" selection-start="64" selection-end="64" vertical-scroll-proportion="-1.25" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/screen.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/root-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
       <provider editor-type-id="com.intellij.spring.perspectives.SpringBeansStructureEditorProvider">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/about.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="22" selection-start="1580" selection-end="1585" vertical-scroll-proportion="0.62425685" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.26785713">
+          <folding />
+        </state>
       </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-        <state />
-      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
         <state />
       </provider>
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
         <state />
       </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="22" selection-start="1542" selection-end="1542" vertical-scroll-proportion="0.6981383">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/app/servlet-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="15" column="24" selection-start="813" selection-end="824" vertical-scroll-proportion="0.2992021">
+          <folding />
+        </state>
       </provider>
       <provider editor-type-id="com.intellij.spring.perspectives.SpringBeansStructureEditorProvider">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="48" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="83" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="113" vertical-scroll-proportion="-0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/uiCreator.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/contact-us.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main_menu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="146" selection-end="276" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/top_menu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="34" selection-start="520" selection-end="520" vertical-scroll-proportion="-9.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="34" selection-start="726" selection-end="726" vertical-scroll-proportion="-10.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="20" selection-start="1898" selection-end="1898" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="65" selection-start="130" selection-end="130" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JBlog/HomeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="32" selection-start="1277" selection-end="1277" vertical-scroll-proportion="0.0" />
+        <state line="45" column="0" selection-start="1624" selection-end="1624" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/welcome.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/JBlog/MenuItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="51" selection-end="650" vertical-scroll-proportion="0.0">
+        <state line="23" column="102" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/animated-menu.html">
+    <entry file="file://$PROJECT_DIR$/target/JBlog/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="85" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.0">
+        <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.htm">
+    <entry file="file://$PROJECT_DIR$/src/main/java/JBlog/MenuContainer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="73" selection-start="5255" selection-end="5255" vertical-scroll-proportion="-61.875">
+        <state line="27" column="0" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/style.css">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="0" selection-start="1688" selection-end="1688" vertical-scroll-proportion="0.73046434">
+        <state line="9" column="75" selection-start="319" selection-end="319" vertical-scroll-proportion="0.24193548">
           <folding />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JBlog:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>JPA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JBlog</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000008" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 

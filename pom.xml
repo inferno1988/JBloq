@@ -214,7 +214,7 @@
 				<version>1.1</version>
 				<configuration>
 					<path>/${project.build.finalName}</path>
-                    <url>http://localhost:8080/manager/html</url>
+                    <url>http://192.168.33.116:8080/manager/html</url>
                     <server>myserver</server>
 				</configuration>
 
