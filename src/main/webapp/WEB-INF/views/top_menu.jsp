@@ -9,8 +9,8 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <div id="top_menu"> <!-- begin of top menu part -->
     <ul>
-        <li><a href="register/">Join US!</a></li>
-        <li><a href="help/">Help</a></li>
-        <li><a href="search/">Search</a></li>
+        <c:forEach var="element" items="${menuItems}">
+            <li><a href="${element.href}">${element.caption}</a></li>
+        </c:forEach>
     </ul>
 </div>  <!-- end of top menu part -->

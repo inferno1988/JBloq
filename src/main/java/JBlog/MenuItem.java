@@ -7,23 +7,12 @@ package JBlog;
  * Time: 17:23
  * To change this template use File | Settings | File Templates.
  */
-public class MenuItem {
-    private String caption;
-    private String href;
 
-    public String getCaption() {
-        return caption;
-    }
+public interface MenuItem {
 
-    public void setCaption(String caption) {
-        this.caption = caption;
-    }
+    public String getCaption();
+    public void setCaption(String caption);
 
-    public String getHref() {
-        return href;
-    }
-
-    public void setHref(String href) {
-        this.href = href;
-    }
+    public String getHref();
+    public void setHref(String href);
 }

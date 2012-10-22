@@ -12,7 +12,7 @@
 
 <body>
 	<div id="page">
-        <%@ include file="WEB-INF/views/top_menu.jsp"%>
+        <c:import url="/uiBuilder/menu/topMenu"/>
 
         <%@ include file="WEB-INF/views/main_menu.jsp"%>
 

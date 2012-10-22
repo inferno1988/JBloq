@@ -1,5 +1,7 @@
 package JBlog;
 
+import org.hibernate.SessionFactory;
+
 import java.util.*;
 
 /**
@@ -21,7 +23,7 @@ public class MenuContainer {
     }
 
     public void addMenuItem(String caption, String link) {
-        MenuItem menuItem = new MenuItem();
+        MenuItem menuItem = new TopMenuEntity();
         menuItem.setCaption(caption);
         menuItem.setHref(link);
         menuItems.add(menuItem);
