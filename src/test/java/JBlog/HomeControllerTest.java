@@ -1,7 +1,6 @@
 package JBlog;
 
 import junit.framework.Assert;
-
 import org.junit.Test;
 import org.springframework.ui.ExtendedModelMap;
 import org.springframework.ui.Model;

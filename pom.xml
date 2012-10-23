@@ -108,6 +108,18 @@
 			<scope>compile</scope>
 		</dependency>
 
+        <dependency>
+            <groupId>jstl</groupId>
+            <artifactId>jstl</artifactId>
+            <version>1.2</version>
+        </dependency>
+
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.21</version>
+        </dependency>
+
 		<!-- View Dependencies -->
 		<dependency>
 			<groupId>taglibs</groupId>
@@ -214,7 +226,7 @@
 				<version>1.1</version>
 				<configuration>
 					<path>/${project.build.finalName}</path>
-                    <url>http://localhost:8080/manager/html</url>
+                    <url>http://192.168.33.116:8080/manager/html</url>
                     <server>myserver</server>
 				</configuration>
 
